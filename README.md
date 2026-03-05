@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_nguyenduchuy.net-24243e?style=for-the-badge&logoColor=white)](https://nguyenduchuy.net)
 [![Upwork](https://img.shields.io/badge/Hire_Me_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com)
-[![Email](https://img.shields.io/badge/contact@nguyenduchuy.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@nguyenduchuy.net)
+[![Email](https://img.shields.io/badge/contact@nguyenduchuy.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@nguyenduchuy.net)
 
 </div>
 
@@ -159,7 +159,7 @@ Whether you need a quick automation script or a full SaaS platform — I've got 
 
 [![Visit My Website](https://img.shields.io/badge/🌐_Visit_nguyenduchuy.net-302b63?style=for-the-badge)](https://nguyenduchuy.net)
 [![Hire on Upwork](https://img.shields.io/badge/💼_Hire_Me_on_Upwork-6FDA44?style=for-the-badge)](https://www.upwork.com)
-[![Send Email](https://img.shields.io/badge/📧_Send_Email-EA4335?style=for-the-badge)](mailto:contact@nguyenduchuy.net)
+[![Send Email](https://img.shields.io/badge/📧_Send_Email-EA4335?style=for-the-badge)](mailto:admin@nguyenduchuy.net)
 
 </div>
 
