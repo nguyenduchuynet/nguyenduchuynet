@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_nguyenduchuy.net-24243e?style=for-the-badge&logoColor=white)](https://nguyenduchuy.net)
 [![Upwork](https://img.shields.io/badge/Hire_Me_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com)
-[![Email](https://img.shields.io/badge/contact@nguyenduchuy.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@nguyenduchuy.net)
+[![Email](https://img.shields.io/badge/admin@nguyenduchuy.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@nguyenduchuy.net)
 
 </div>
 
